@@ -61,7 +61,7 @@ export default function Home() {
         <section className="hero" id="inicio">
           <div className="hero-copy reveal">
             <p className="eyebrow"><span/> Odontologia gentil em Salvador do Sul</p>
-            <h1>Feita para cuidar do seu <em>sorriso.</em> Feita para acolher <em>você.</em></h1>
+            <h1>Cuidado que transforma <em>sorrisos</em> e acolhe pessoas.</h1>
             <p className="hero-lead">Atendimento odontológico completo para adultos e crianças, com olhar atento, planejamento claro e uma experiência que respeita o seu ritmo.</p>
             <div className="hero-actions">
               <a className="btn btn-primary" href={whatsapp} target="_blank" rel="noreferrer">Conversar pelo WhatsApp <span>↗</span></a>
@@ -80,8 +80,6 @@ export default function Home() {
             </form>
           </div>
         </section>
-
-        <section className="welcome-strip" aria-label="Diferenciais"><p>Da primeira conversa ao acompanhamento</p><div><span>Escuta atenta</span><span>Planejamento individual</span><span>Cuidado em família</span><span>Ambiente tranquilo</span></div></section>
 
         <section className="comfort" id="experiencia">
           <div className="comfort-photo reveal"><Image fill unoptimized sizes="(max-width: 760px) 90vw, 38vw" src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=1000&q=85" alt="Consultório odontológico claro, moderno e acolhedor"/><span className="photo-label">Um ambiente pensado para você respirar tranquilo.</span></div>
